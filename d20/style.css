@@ -1,3 +1,11 @@
+body {
+  background: linear-gradient(#545454, #454545, #676767);
+  display: grid;
+  grid-template-columns: 1fr;
+  height: 100vh;
+  overflow: hidden;
+  width: 100%;
+}
 .cube-container {
   width: 190px;
   height: 190px;
